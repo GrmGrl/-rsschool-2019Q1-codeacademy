@@ -1,2 +1,2 @@
-# -rsschool-2019Q1-codeacademy
-proof of my work
+Vladimir Postnov
+HTML CSS Basics: https://www.codecademy.com/users/GrmGrl/achievements
